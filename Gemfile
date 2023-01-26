@@ -85,6 +85,7 @@ gem "sqlite3", "~> 1.4"
 end
 
 group :production do
+  # For production
   gem 'pg', '~> 1.4', '>= 1.4.5'
 end
 
