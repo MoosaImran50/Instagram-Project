@@ -52,7 +52,7 @@ gem 'devise'
 
 # image uploads
 gem 'carrierwave', :git => 'https://github.com/carrierwaveuploader/carrierwave.git', :branch => 'master'
-gem 'cloudinary', :git => 'https://github.com/cloudinary/cloudinary_gem.git', :branch => 'master'
+# gem 'cloudinary', :git => 'https://github.com/cloudinary/cloudinary_gem.git', :branch => 'master'
 gem 'fog', '~>1.37.0'
 # image resizing
 gem 'mini_magick'
