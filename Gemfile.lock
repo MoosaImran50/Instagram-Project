@@ -11,15 +11,6 @@ GIT
       marcel (~> 1.0.0)
       ssrf_filter (~> 1.0)
 
-GIT
-  remote: https://github.com/cloudinary/cloudinary_gem.git
-  revision: 70f980ffe6d0b609534ce4a5cf8370f0c3288109
-  branch: master
-  specs:
-    cloudinary (1.25.0)
-      aws_cf_signer
-      rest-client (>= 2.0.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -428,7 +419,6 @@ DEPENDENCIES
   bootstrap-sass (~> 3.4.1)
   capybara
   carrierwave!
-  cloudinary!
   debug
   devise
   figaro
