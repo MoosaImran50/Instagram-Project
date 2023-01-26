@@ -61,7 +61,7 @@ gem 'fog', '~>1.37.0'
 gem 'mini_magick'
 gem 'image_processing'
 
-# for searching
+# for searching database
 gem 'ransack'
 
 
